@@ -76,12 +76,16 @@
 
 ## ⚙️ Beyond the Browser
 
-Self-hosting on a self-built Debian server with a full Docker stack; running Hermes Agent + a WeChat bot + mem0 long-term memory; dispatching tasks to AI via opencode — **front-end was my starting point, the AI-native workflow is my present**.
+- 🖥 Self-hosting on a self-built Debian server with a full Docker stack
+- 🤖 Running Hermes Agent + a WeChat bot + mem0 long-term memory; dispatching tasks to AI via opencode
+- 🎮 **Local inference on RTX 3070**: Ollama with Qwen2.5-7B as a daily assistant, plus vision and speech models sourced from ModelScope — an offline local multimodal workstation
+
+**Front-end was my starting point, the AI-native workflow is my present.**
 
 ## 🌱 Currently Learning & 💬 Happy to Talk About
 
 - 🌱 RAG / embedding retrieval optimization · multi-step Agent orchestration
-- 💬 uni-app cross-end architecture · shipping AI features to production · mini-program review & release experience · self-hosting & home servers
+- 💬 uni-app cross-end architecture · shipping AI features to production · local LLM deployment (Ollama / ModelScope) · self-hosting & home servers
 
 ---
 

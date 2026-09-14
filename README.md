@@ -76,12 +76,16 @@
 
 ## ⚙️ 我不只写页面
 
-自组 Debian 服务器 + Docker 全家桶自托管；跑 Hermes Agent + 微信 bot + mem0 长期记忆；用 opencode 给 AI 派发任务，让 Agent 替我干活——**前端是我的起点，AI-Native 工作流是我的现在**。
+- 🖥 自组 Debian 服务器 + Docker 全家桶自托管
+- 🤖 跑 Hermes Agent + 微信 bot + mem0 长期记忆；用 opencode 给 AI 派发任务
+- 🎮 **RTX 3070 本地推理**：Ollama 部署 Qwen2.5-7B 作为日常小助手，配合识图模型、语音模型——模型从魔搭社区选型下载，组成一套离线可用的本地多模态工作台
+
+**前端是我的起点，AI-Native 工作流是我的现在。**
 
 ## 🌱 正在深入 & 💬 可聊话题
 
 - 🌱 RAG 检索增强生成 / Embedding 检索优化 · Agent 多步任务编排
-- 💬 uni-app 踩坑与多端架构 · AI 功能产品化落地 · 小程序审核与上架经验 · 自托管与家庭服务器
+- 💬 uni-app 踩坑与多端架构 · AI 功能产品化落地 · 本地模型部署与选型（Ollama / 魔搭） · 自托管与家庭服务器
 
 ---
 
