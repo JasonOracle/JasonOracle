@@ -1,9 +1,9 @@
 <p align="center"><b>中文</b> · <a href="README_EN.md">English</a></p>
 
-<h3 align="center">你好，我是刘亚楠 👋</h3>
+<h3 align="center">你好，我是 JasonOracle 👋</h3>
 
 <p align="center">
-  <b>9 年前端 · AI-Native 全栈</b> · 武汉 · 求职中<br>
+  <b>9 年前端 · AI-Native 全栈</b><br>
   把 AI 做进产品里：从 Prompt 到上线，从小程序到三端 SaaS
 </p>
 
@@ -18,7 +18,8 @@
 
 ## 🔥 职业亮点
 
-- 💰 **AI 写作矩阵小程序** — 核心前端，**10 个月营收破百万**，50 万+ 学生在用
+- 💰 **AI 写作矩阵小程序** — 核心前端，**10 个月营收破百万**
+- 🌱 **倍进成长圈学习社区** — 注册用户 **1000 万+**、帖子 53 万+，WebSocket 实时聊天与互动玩法闭环
 - 🚀 **3 个月把 B 端 SaaS 带上 App Store** — uni-app 双端同构，render.js 解决视频层级、字体子集化等硬骨头
 - 🧠 **独立交付三端 AI 测评 SaaS（[tiku](https://github.com/JasonOracle/tiku)）** — FastAPI + Vue3 + uni-app，AI 阅卷 / RAG 命题 / 多租户，C 端已上线
 
@@ -29,8 +30,8 @@
 | 2017.10 - 2021.03 | 浙江某教育科技公司 · 前端 | 假日小队系产品：商城、官网、招募系统、双端 APP |
 | 2021.03 - 2021.10 | 某交通行业工程技术公司 · 前端 | 公路养护可视化大屏 ×2、高德地图海量点聚合 |
 | 2021.12 - 2025.03 | 河南某教育科技公司 · 前端 → AI 项目前端负责人 | 10+ 款小程序/APP，AI 写作矩阵 10 个月营收破百万 |
-| 2026.03 - 2026.06 | 武汉某智能科技公司 · 前端（App 方向） | 3 个月把 B 端 SaaS 带上 iOS App Store |
-| 现在 | AI-Native 全栈（求职中 · 武汉） | 独立交付 tiku 三端 SaaS，RAG / MCP / Agent 工作流 |
+| 2026.03 - 2026.06 | 某智能科技公司 · 前端（App 方向） | 3 个月把 B 端 SaaS 带上 iOS App Store |
+| 现在 | AI-Native 全栈（独立开发） | 独立交付 tiku 三端 SaaS，RAG / MCP / Agent 工作流 |
 
 ## 🛠 技术栈
 
@@ -81,14 +82,6 @@
 
 - 🌱 RAG 检索增强生成 / Embedding 检索优化 · Agent 多步任务编排
 - 💬 uni-app 踩坑与多端架构 · AI 功能产品化落地 · 小程序审核与上架经验 · 自托管与家庭服务器
-
-## 📊 GitHub 数据
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JasonOracle&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="155"/>
-  <img src="https://streak-stats.demolab.com?user=JasonOracle&hide_border=true&locale=zh_Hans" alt="streak" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonOracle&layout=compact&hide_border=true&langs_count=6" alt="top langs" height="155"/>
-</p>
 
 ---
 

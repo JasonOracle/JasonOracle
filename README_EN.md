@@ -1,9 +1,9 @@
 <p align="center"><a href="README.md">中文</a> · <b>English</b></p>
 
-<h3 align="center">Hi, I'm Liu Yanan 👋</h3>
+<h3 align="center">Hi, I'm JasonOracle 👋</h3>
 
 <p align="center">
-  <b>9 Years Front-end · AI-Native Full-stack</b> · Wuhan, China · Open to Work<br>
+  <b>9 Years Front-end · AI-Native Full-stack</b><br>
   Putting AI into products: from prompt to production, from mini-programs to a 3-end SaaS
 </p>
 
@@ -18,7 +18,8 @@
 
 ## 🔥 Career Highlights
 
-- 💰 **AI writing suite of mini-programs** — core front-end, **revenue passed ¥1M in 10 months**, used by 500K+ students
+- 💰 **AI writing suite of mini-programs** — core front-end, **revenue passed ¥1M in 10 months**
+- 🌱 **Learning community mini-program** — **10M+ registered users**, 530K+ posts; WebSocket chat and interactive features
 - 🚀 **Took a B2B SaaS to the App Store in 3 months** — uni-app dual-end architecture, solved hard problems like render.js video layering and font subsetting
 - 🧠 **Independently shipped a 3-end AI assessment SaaS ([tiku](https://github.com/JasonOracle/tiku))** — FastAPI + Vue3 + uni-app, AI grading / RAG-based item generation / multi-tenant, C-end live
 
@@ -29,8 +30,8 @@
 | 2017.10 - 2021.03 | Front-end @ an education-tech company (Zhejiang) | "Holiday Squad" product line: mall, website, recruiting, dual-end APP |
 | 2021.03 - 2021.10 | Front-end @ a transportation-engineering company | Highway maintenance visual dashboards ×2, AMap massive marker clustering |
 | 2021.12 - 2025.03 | Front-end → AI projects lead @ an education-tech company (Henan) | 10+ mini-programs/APPs, AI writing suite: ¥1M+ revenue in 10 months |
-| 2026.03 - 2026.06 | Front-end (App) @ a smart-tech company (Wuhan) | Took a B2B SaaS to the iOS App Store in 3 months |
-| Now | AI-Native full-stack (open to work · Wuhan) | Independently shipped tiku 3-end SaaS, RAG / MCP / Agent workflows |
+| 2026.03 - 2026.06 | Front-end (App) @ a smart-tech company | Took a B2B SaaS to the iOS App Store in 3 months |
+| Now | AI-Native full-stack (independent developer) | Independently shipped tiku 3-end SaaS, RAG / MCP / Agent workflows |
 
 ## 🛠 Tech Stack
 
@@ -81,14 +82,6 @@ Self-hosting on a self-built Debian server with a full Docker stack; running Her
 
 - 🌱 RAG / embedding retrieval optimization · multi-step Agent orchestration
 - 💬 uni-app cross-end architecture · shipping AI features to production · mini-program review & release experience · self-hosting & home servers
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JasonOracle&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="155"/>
-  <img src="https://streak-stats.demolab.com?user=JasonOracle&hide_border=true" alt="streak" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonOracle&layout=compact&hide_border=true&langs_count=6" alt="top langs" height="155"/>
-</p>
 
 ---
 
