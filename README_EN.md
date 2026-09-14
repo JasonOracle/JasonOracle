@@ -78,7 +78,7 @@
 
 - 🖥 Self-hosting on a self-built Debian server with a full Docker stack
 - 🤖 Running Hermes Agent + a WeChat bot + mem0 long-term memory; dispatching tasks to AI via opencode
-- 🎮 **Local inference on RTX 3070**: Ollama with Qwen2.5-7B as a daily assistant, plus vision and speech models sourced from ModelScope — an offline local multimodal workstation
+- 🎮 **Local inference on RTX 3080**: Ollama with Qwen2.5-7B as a daily assistant, plus vision and speech models sourced from ModelScope — an offline local multimodal workstation
 
 **Front-end was my starting point, the AI-native workflow is my present.**
 
