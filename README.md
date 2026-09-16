@@ -21,17 +21,8 @@
 - 💰 **AI 写作矩阵小程序** — 核心前端，**10 个月营收破百万**
 - 🌱 **倍进成长圈学习社区** — 注册用户 **1000 万+**、帖子 53 万+，WebSocket 实时聊天与互动玩法闭环
 - 🚀 **3 个月把 B 端 SaaS 带上 App Store** — uni-app 双端同构，render.js 解决视频层级、字体子集化等硬骨头
-- 🧠 **三端 AI 测评 SaaS（[tiku](https://github.com/JasonOracle/tiku)）** — FastAPI + Vue3 + uni-app，AI 阅卷 / RAG 命题 / 多租户，C 端已上线
+- 🧠 **三端 AI 测评 SaaS（[智题库](https://github.com/JasonOracle/tiku)）** — FastAPI + Vue3 + uni-app，AI 阅卷 / RAG 命题 / 多租户，C 端已上线
 
-## 🧭 职业轨迹
-
-| 时间 | 角色 | 关键词 |
-|------|------|--------|
-| 2017.10 - 2021.03 | 浙江某教育科技公司 · 前端 | 假日小队系产品：商城、官网、招募系统、双端 APP |
-| 2021.03 - 2021.10 | 某交通行业工程技术公司 · 前端 | 公路养护可视化大屏 ×2、高德地图海量点聚合 |
-| 2021.12 - 2025.03 | 河南某教育科技公司 · 前端 → AI 项目前端负责人 | 10+ 款小程序/APP（倍进学堂 / 同步学英语累计营收均千万级），AI 写作矩阵 10 个月营收破百万 |
-| 2026.03 - 2026.06 | 某智能科技公司 · 前端（App 方向） | 3 个月把 B 端 SaaS 带上 iOS App Store |
-| 现在 | AI-Native 全栈（开发） |  tiku 三端 SaaS，RAG / MCP / Agent 工作流 |
 
 ## 🛠 技术栈
 
@@ -60,8 +51,8 @@
 
 | 项目 | 一句话 | 链接 |
 |------|--------|------|
-| **智题库** | 三端 AI 测评 SaaS：AI 阅卷、RAG 命题、多租户 | [GitHub](https://github.com/JasonOracle/tiku) · [在线 Demo](https://tiku-toc-new.pages.dev/#/) |
-| **AiService** | 企业级 AI 智能客服：工单状态机，「AI 负责效率，人工负责责任」 | [在线 Demo](https://aiservice-toc.pages.dev) |
+| **智题库演示系统** | 三端 AI 测评 SaaS：AI 阅卷、RAG 命题、多租户 | [GitHub](https://github.com/JasonOracle/tiku) · [在线 Demo](https://tiku-toc-new.pages.dev/#/) |
+| **Ai客服演示系统** | 企业级 AI 智能客服：工单状态机，「AI 负责效率，人工负责责任」 | [在线 Demo](https://aiservice-toc.pages.dev) |
 | **EReader-MVP** | Vue3 + Electron 阅读器，AGENTS.md 结构化文档驱动 AI 开发实践 | [GitHub](https://github.com/JasonOracle/EReader-MVP) |
 | **agnes-2.5-flash-mcp** | 发布到 PyPI 的 MCP Server：AI Agent 标准化调用图像/视频生成 | [PyPI](https://pypi.org/project/agnes-2.5-flash-mcp/) |
 
