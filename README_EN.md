@@ -83,13 +83,22 @@
 | AI Hairstyle Try-on | Tencent Hunyuan image gen + cloud functions: face-based hairstyle try-on (done to trial version) |
 | Thumb Photo Editor / Altimeter | Canvas image processing, GPS sensor dashboard — both reviewed & live |
 
-## ⚙️ Beyond the Browser
+## Beyond the Code
+
+**Engineering**
 
 - 🖥 Self-hosting on a self-built Debian server with a full Docker stack
 - 🤖 Running Hermes Agent + a WeChat bot + mem0 long-term memory; dispatching tasks to AI via opencode
 - 🎮 **Local inference on RTX 3080**: Ollama with Qwen2.5-7B as a daily assistant, plus vision and speech models sourced from ModelScope — an offline local multimodal workstation
 
-**Front-end was my starting point, the AI-native workflow is my present.**
+**Life**
+
+- 🏕 Camping & road trips: route planning, gear checklists, contingency plans — bringing engineering thinking into the wild
+- 🍳 Cooking as experimentation: recipes are just parameter tuning, heat and ratios included
+- 🎵🎧 Music and films as the constant background — and a source of ideas
+- 🔧 Strong hands-on instinct: if something breaks, I open it up first — understand how it works, then decide whether to fix it
+
+**Coding is my profession; tinkering is my nature.**
 
 ## 🌱 Currently Learning & 💬 Happy to Talk About
 

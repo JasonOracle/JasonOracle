@@ -56,7 +56,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white)
 
-## 📌 代表项目
+## 代表项目
 
 | 项目 | 一句话 | 链接 |
 |------|--------|------|
@@ -65,7 +65,7 @@
 | **EReader-MVP** | Vue3 + Electron 阅读器，AGENTS.md 结构化文档驱动 AI 开发实践 | [GitHub](https://github.com/JasonOracle/EReader-MVP) |
 | **agnes-2.5-flash-mcp** | 发布到 PyPI 的 MCP Server：AI Agent 标准化调用图像/视频生成 | [PyPI](https://pypi.org/project/agnes-2.5-flash-mcp/) |
 
-### 🤖 AI 工程基建（2026.09）
+### AI 工程基建（2026）
 
 | 项目 | 一句话 | 链接 |
 |------|--------|------|
@@ -83,13 +83,22 @@
 | 千面测发型 | 腾讯混元生图 + 云函数：人脸发型 AI 试戴（个人主体限 AI 类目，完成至体验版） |
 | 拇指修图 / 小白海拔检测仪 | Canvas 图像处理、GPS 传感器仪表盘，均已审核上线 |
 
-## ⚙️ 我不只写页面
+## 我不止写代码
 
-- 🖥 自组 Debian 服务器 + Docker 全家桶自托管
-- 🤖 跑 Hermes Agent + 微信 bot + mem0 长期记忆；用 opencode 给 AI 派发任务
-- 🎮 **RTX 3080 本地推理**：Ollama 部署 Qwen2.5-7B 作为日常小助手，配合识图模型、语音模型——模型从魔搭社区选型下载，组成一套离线可用的本地多模态工作台
+**工程侧**
 
-**前端是我的起点，AI-Native 工作流是我的现在。**
+- 自组 Debian 服务器 + Docker 全家桶自托管
+- 跑 Hermes Agent + 微信 bot + mem0 长期记忆；用 opencode 给 AI 派发任务
+- **RTX 3080 本地推理**：Ollama 部署 Qwen2.5-7B 作为日常小助手，配合识图模型、语音模型——模型从魔搭社区选型下载，组成一套离线可用的本地多模态工作台
+
+**生活侧**
+
+- 🏕 户外露营 + 自驾游：行程规划、装备清单、路线预案——把工程思维带进旷野
+- 🍳 爱研究、爱做饭：把菜谱当配方调试，火候与配比都是参数
+- 🎵🎧 音乐与电影是常态背景音，也是灵感的来源
+- 🔧 动手能力强：东西坏了先拆开看结构，搞明白原理再决定修不修
+
+**代码是我的职业，折腾是我的天性。**
 
 ## 🌱 正在深入 & 💬 可聊话题
 
