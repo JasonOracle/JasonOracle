@@ -1,6 +1,6 @@
 <p align="center"><b>中文</b> · <a href="README_EN.md">English</a></p>
 
-<h3 align="center">你好，我是 JasonOracle 👋</h3>
+<h3 align="center">你好，我是 Jason 👋</h3>
 
 <p align="center">
   <b>9 年前端 · AI-Native 全栈</b><br>
