@@ -29,7 +29,7 @@
 |--------|------|----------|
 | 2017.10 - 2021.03 | Front-end @ an education-tech company (Zhejiang) | "Holiday Squad" product line: mall, website, recruiting, dual-end APP |
 | 2021.03 - 2021.10 | Front-end @ a transportation-engineering company | Highway maintenance visual dashboards ×2, AMap massive marker clustering |
-| 2021.12 - 2025.03 | Front-end → AI projects lead @ an education-tech company (Henan) | 10+ mini-programs/APPs, AI writing suite: ¥1M+ revenue in 10 months |
+| 2021.12 - 2025.03 | Front-end → AI projects lead @ an education-tech company (Henan) | 10+ mini-programs/APPs (Beijin Xuetang & Sync-English each generated ¥10M+ cumulative revenue), AI writing suite: ¥1M+ revenue in 10 months |
 | 2026.03 - 2026.06 | Front-end (App) @ a smart-tech company | Took a B2B SaaS to the iOS App Store in 3 months |
 | Now | AI-Native full-stack (independent developer) | Independently shipped tiku 3-end SaaS, RAG / MCP / Agent workflows |
 
