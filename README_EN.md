@@ -65,6 +65,15 @@
 | **EReader-MVP** | Vue3 + Electron e-book reader, AI-driven development via AGENTS.md structured docs | [GitHub](https://github.com/JasonOracle/EReader-MVP) |
 | **agnes-2.5-flash-mcp** | MCP Server on PyPI: standardized image/video generation for AI Agents | [PyPI](https://pypi.org/project/agnes-2.5-flash-mcp/) |
 
+### 🤖 AI Engineering Infrastructure (Sep 2026)
+
+| Project | One-liner | Links |
+|---------|-----------|-------|
+| **CrossBrain** | Tauri + Rust desktop app: maintain your AI coding memory once, sync it everywhere — SSOT + marker-block injection + idempotent sync engine. v1.0.0 released, 118 Rust tests green | [GitHub](https://github.com/JasonOracle/CrossBrain) |
+| **figma-agent-bridge** | A self-built local channel that lets AI agents read & write real Figma canvases: design system → full-page hi-fi → Vue3 port → pixel-level visual regression (Diff 5.691% / SSIM 0.9037), 36 atomic ops, zero dependencies | [GitHub](https://github.com/JasonOracle/figma-agent-bridge) |
+| **agent-design-figma** | An AI UI design skill distilled from the bridge: one sentence → design system → auto-render into Figma → visual review & fix, L0-L5 fully automated pipeline | [GitHub](https://github.com/JasonOracle/agent-design-figma) |
+| **agent-bridge** | A framework for autonomous multi-agent collaboration: Pinia-inspired global state, Supervisor / Builder / Watchdog separation of powers — expensive models supervise, cheap models code, zero human intervention (designed for `npx agent-bridge init`) | [GitHub](https://github.com/JasonOracle/agent-bridge) |
+
 ### 🧪 Open Source & AI Experiments
 
 | Project | What it does |

@@ -65,6 +65,15 @@
 | **EReader-MVP** | Vue3 + Electron 阅读器，AGENTS.md 结构化文档驱动 AI 开发实践 | [GitHub](https://github.com/JasonOracle/EReader-MVP) |
 | **agnes-2.5-flash-mcp** | 发布到 PyPI 的 MCP Server：AI Agent 标准化调用图像/视频生成 | [PyPI](https://pypi.org/project/agnes-2.5-flash-mcp/) |
 
+### 🤖 AI 工程基建（2026.09）
+
+| 项目 | 一句话 | 链接 |
+|------|--------|------|
+| **CrossBrain** | Tauri + Rust 桌面应用：AI 编程记忆「一处维护、四处同步」——SSOT 单一事实源 + 标记块注入协议 + 幂等同步引擎，v1.0.0 已发布，118 项 Rust 测试全绿 | [GitHub](https://github.com/JasonOracle/CrossBrain) |
+| **figma-agent-bridge** | 自建本地通道让 AI Agent 直接读写真实 Figma 画布：设计系统 → 整页高保真 → Vue3 还原 → 像素级视觉回归（Diff 5.691% / SSIM 0.9037），36 个原子操作，零依赖 | [GitHub](https://github.com/JasonOracle/figma-agent-bridge) |
+| **agent-design-figma** | 从 bridge 提炼的 AI UI 设计 Skill：一句话 → 设计系统 → 自动画进 Figma → 视觉审查修复，L0-L5 全自动流水线 | [GitHub](https://github.com/JasonOracle/agent-design-figma) |
+| **agent-bridge** | 多智能体异步协作框架：借鉴 Pinia 全局状态思想，Supervisor / Builder / Watchdog 三权分立，贵模型监工、便宜模型干活，全程零人工干预（设计支持 `npx agent-bridge init`） | [GitHub](https://github.com/JasonOracle/agent-bridge) |
+
 ### 🧪 开源与 AI 实验
 
 | 项目 | 玩法 |
