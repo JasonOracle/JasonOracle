@@ -51,8 +51,8 @@
 
 | 项目 | 一句话 | 链接 |
 |------|--------|------|
-| **智题库演示系统** | 三端 AI 测评 SaaS：AI 阅卷、RAG 命题、多租户 | [GitHub](https://github.com/JasonOracle/tiku) · [在线 Demo](https://tiku-toc-new.pages.dev/#/) |
-| **Ai客服演示系统** | 企业级 AI 智能客服：工单状态机，「AI 负责效率，人工负责责任」 | [在线 Demo](https://aiservice-toc.pages.dev) |
+| **智题库演示系统** | 三端 AI 测评 SaaS：AI 阅卷、RAG 私有知识库命题、题卷防篡改状态机、多租户与防作弊 | [GitHub](https://github.com/JasonOracle/tiku) · [在线 Demo](https://tiku-toc-new.pages.dev/#/) |
+| **Ai客服演示系统** | Next.js 16 + FastAPI + TiDB Cloud 企业级 AI 客服：双层 AI 托管状态机，「AI 负责效率，人工负责责任」 | [GitHub](https://github.com/JasonOracle/aiservice) · [在线 Demo](https://aiservice-toc.pages.dev) |
 | **EReader-MVP** | Vue3 + Electron 阅读器，AGENTS.md 结构化文档驱动 AI 开发实践 | [GitHub](https://github.com/JasonOracle/EReader-MVP) |
 | **agnes-2.5-flash-mcp** | 发布到 PyPI 的 MCP Server：AI Agent 标准化调用图像/视频生成 | [PyPI](https://pypi.org/project/agnes-2.5-flash-mcp/) |
 
@@ -64,6 +64,7 @@
 | **figma-agent-bridge** | 自建本地通道让 AI Agent 直接读写真实 Figma 画布：设计系统 → 整页高保真 → Vue3 还原 → 像素级视觉回归（Diff 5.691% / SSIM 0.9037），36 个原子操作，零依赖 | [GitHub](https://github.com/JasonOracle/figma-agent-bridge) |
 | **agent-design-figma** | 从 bridge 提炼的 AI UI 设计 Skill：一句话 → 设计系统 → 自动画进 Figma → 视觉审查修复，L0-L5 全自动流水线 | [GitHub](https://github.com/JasonOracle/agent-design-figma) |
 | **agent-bridge** | 多智能体异步协作框架：借鉴 Pinia 全局状态思想，Supervisor / Builder / Watchdog 三权分立，贵模型监工、便宜模型干活，全程零人工干预（设计支持 `npx agent-bridge init`） | [GitHub](https://github.com/JasonOracle/agent-bridge) |
+| **agent-project-map** | 为任意项目生成「项目地图 + 六层断言守护」的 AI Skill：AI 秒定位目录职责 / 启动路由 / 部署真相 / 历史陷阱，断言层防地图漂移、防语义欠账 | [GitHub](https://github.com/JasonOracle/agent-project-map) |
 
 ### 🧪 开源与 AI 实验
 
@@ -98,4 +99,4 @@
 
 ---
 
-<p align="center">📬 合作 / 内推：<a href="mailto:liuyn2017@qq.com">liuyn2017@qq.com</a> · 🌐 <a href="https://portfolio-bwz.pages.dev">在线作品集</a></p>
+<p align="center">📬 合作 / 内推：<a href="mailto:liuyn2017@qq.com">liuyn2017@qq.com</a> · 🌐 <a href="https://portfolio-bwz.pages.dev">在线作品集</a> · <a href="https://github.com/JasonOracle/portfolio">作品集源码</a></p>

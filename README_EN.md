@@ -60,8 +60,8 @@
 
 | Project | One-liner | Links |
 |---------|-----------|-------|
-| **tiku — AI Assessment SaaS** | 3-end SaaS: AI grading, RAG item generation, multi-tenant | [GitHub](https://github.com/JasonOracle/tiku) · [Live Demo](https://tiku-toc-new.pages.dev/#/) |
-| **aiservice** | Enterprise AI customer service: ticket state machine — "AI for efficiency, humans for accountability" | [Live Demo](https://aiservice-toc.pages.dev) |
+| **tiku — AI Assessment SaaS** | 3-end SaaS: AI grading, RAG private-knowledge-base item generation, tamper-proof exam state machine, multi-tenant & anti-cheating | [GitHub](https://github.com/JasonOracle/tiku) · [Live Demo](https://tiku-toc-new.pages.dev/#/) |
+| **aiservice** | Enterprise AI customer service (Next.js 16 + FastAPI + TiDB Cloud): dual-layer AI-managed state machine — "AI for efficiency, humans for accountability" | [GitHub](https://github.com/JasonOracle/aiservice) · [Live Demo](https://aiservice-toc.pages.dev) |
 | **EReader-MVP** | Vue3 + Electron e-book reader, AI-driven development via AGENTS.md structured docs | [GitHub](https://github.com/JasonOracle/EReader-MVP) |
 | **agnes-2.5-flash-mcp** | MCP Server on PyPI: standardized image/video generation for AI Agents | [PyPI](https://pypi.org/project/agnes-2.5-flash-mcp/) |
 
@@ -73,6 +73,7 @@
 | **figma-agent-bridge** | A self-built local channel that lets AI agents read & write real Figma canvases: design system → full-page hi-fi → Vue3 port → pixel-level visual regression (Diff 5.691% / SSIM 0.9037), 36 atomic ops, zero dependencies | [GitHub](https://github.com/JasonOracle/figma-agent-bridge) |
 | **agent-design-figma** | An AI UI design skill distilled from the bridge: one sentence → design system → auto-render into Figma → visual review & fix, L0-L5 fully automated pipeline | [GitHub](https://github.com/JasonOracle/agent-design-figma) |
 | **agent-bridge** | A framework for autonomous multi-agent collaboration: Pinia-inspired global state, Supervisor / Builder / Watchdog separation of powers — expensive models supervise, cheap models code, zero human intervention (designed for `npx agent-bridge init`) | [GitHub](https://github.com/JasonOracle/agent-bridge) |
+| **agent-project-map** | An AI skill that generates a "project map + six-layer assertion guard" for any codebase: instantly locates directory responsibilities, startup routes, deployment truth & historical pitfalls — assertions prevent map drift and semantic debt | [GitHub](https://github.com/JasonOracle/agent-project-map) |
 
 ### 🧪 Open Source & AI Experiments
 
@@ -107,4 +108,4 @@
 
 ---
 
-<p align="center">📬 Contact: <a href="mailto:liuyn2017@qq.com">liuyn2017@qq.com</a> · 🌐 <a href="https://portfolio-bwz.pages.dev">Online Portfolio</a></p>
+<p align="center">📬 Contact: <a href="mailto:liuyn2017@qq.com">liuyn2017@qq.com</a> · 🌐 <a href="https://portfolio-bwz.pages.dev">Online Portfolio</a> · <a href="https://github.com/JasonOracle/portfolio">Portfolio Source</a></p>
