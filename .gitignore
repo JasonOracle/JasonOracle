@@ -1,0 +1,31 @@
+# WorkBuddy 本地工作数据（个人记忆、日志，不应进入公开仓库）
+.workbuddy/
+
+# 操作系统与编辑器
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 构建产物
+dist/
+build/
+.unpackage/
+*.tsbuildinfo
+
+# 环境变量与本地密钥（务必不要提交）
+.env
+.env.local
+.env.*.local
+
+# 日志与临时文件
+*.log
+*.tmp
